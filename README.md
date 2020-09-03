@@ -1,13 +1,6 @@
-### Hi there! Here is What I'm Working On! 👋
+### Hi there!  👋
 
-Here are some ideas to get you started:
+- 🔭 Passitionate in learning newer technologies. I’m currently working on ... Js & ReactJs Projects
 
-- 🔭 I’m currently working on ... CSS
-- 🌱 I’m currently learning ... ReactJS
-- 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... Cloud
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
